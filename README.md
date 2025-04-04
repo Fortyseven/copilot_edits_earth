@@ -1,3 +1,5 @@
+![](docs/earf.png)
+
 # Three.js Solar Scene
 
 This project is a 3D solar scene built with [Three.js](https://threejs.org/). It features a rotating Earth-like sphere, an orbiting moon, a textured plane, and a starry background. Shadows and lighting effects are included to enhance realism.
