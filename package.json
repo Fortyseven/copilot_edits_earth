@@ -1,0 +1,17 @@
+{
+  "name": "threejs-vite-workspace",
+  "version": "1.0.0",
+  "description": "A Vite workspace for a Three.js application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.152.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
